@@ -1,0 +1,3 @@
+# xyz_clientNetflix_Proj0531_BasicPython-BaseCode
+For a client Netflix creating simple Python functions- Fibonacci code, prime numbers or not, basic comprehension and decoroators
+The repository will have all the basic Python functions for a quick learning....
