@@ -62,7 +62,7 @@ SyntaxError: invalid syntax
 4.5
 >>> 18.0/4
 4.5
->>> Saty = 'SuperMan'
+>>> Saty = 'SuperMans'
 >>> print(Saty)
 SuperMan
 >>> Saty ="i am eager to learn more"
